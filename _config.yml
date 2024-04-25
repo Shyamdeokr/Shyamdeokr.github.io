@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Livermore, CA"
   employer         : "Lawrence Livermore National Laboratory"
-  uri              : # URL
+  url              : # URL
   email            : "shyamdeo.che09@itbhu.ac.in" 
 
   # Academic websites
