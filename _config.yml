@@ -12,7 +12,7 @@ title                    : "Shyam Deo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://shyamdeokr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shyamdeokr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Livermore, CA"
   employer         : "Lawrence Livermore National Laboratory"
-  url              : # URL
+  uri              : # URL
   email            : "shyamdeo.che09@itbhu.ac.in" 
 
   # Academic websites
